@@ -14,7 +14,7 @@
 * CSS
 
 ## Website
-https://jessica-calderon.github.io/horiseonsolutions
+https://jessica-calderon.github.io/horiseon-solutions
 
 ## Contribution
 Made by Jessica E. Calderon
