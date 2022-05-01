@@ -20,7 +20,7 @@ https://jessica-calderon.github.io/horiseonsolutions
 Made by Jessica E. Calderon
 
 ## Website Screenshot
-![index screenshot](./assets/images/horiseon.jpg "homepage screensshot")
+![index screenshot](./assets/images/horiseon.jpg "homepage screenshot")
 
 ## &copy; 2019 Horiseon Social Solution Services, Inc.
 
